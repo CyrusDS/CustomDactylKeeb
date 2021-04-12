@@ -19,22 +19,22 @@ I noticed this was a bit of an older project so I decided to make my own updated
 including a different controller board setup and also some new capabilities which required some design retooling.
 
 
-##Beginnings designs
+## Beginnings designs
 
-##Modifications
+## Modifications
 
 ### Wiring
 
-##Early Versions
+## Early Versions
 
-##Final Product
+### Final Product
 
-##Future improvements
+## Future improvements
 
-##Difficulties and Recommendations
+## Difficulties and Recommendations
 
 ### Printing
 
-## License
+### License
 ©2021 Cyrus Sowdaey
 Provided files and info are for free use to anyone, regarding modification and reproduction.
