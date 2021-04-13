@@ -32,6 +32,8 @@ Notice that there are slots in the hemisphere to accomodate for bearings to be p
 
 ### Wiring
 
+## Adding a PCB to the shell
+
 ## Early Versions
 
 ### Final Product
