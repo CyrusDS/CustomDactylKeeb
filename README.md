@@ -18,10 +18,17 @@ https://github.com/adereth/dactyl-keyboard
 I noticed this was a bit of an older project so I decided to make my own updated version, 
 including a different controller board setup and also some new capabilities which required some design retooling.
 
+## Parts List (not fully complete)
+As I wanted to update the older project shown above, I opted for some more modern parts, shown below.
 
-## Beginnings designs
+## Beginnings designs and Modifications to original model
+Initially, the plan was to design a model with a trackpad integrated to the dactyl layout and simply print it. However, 3D Modeling the addition proved to be a time consuming effort and the initial design simply had the trackball too far from ones hands, in order to be ergonomically comfortable. So, I had to re-design the 3D model from scratch again multiple times, before even printing the first design. The first design that actually made the cut to be printed is below 
+<img src="https://github.com/CyrusDS/CustomDactylKeeb/blob/main/3D%20Design%20Iterations/V2PrintedLayers.png?raw=true"/>
+Shown with printed layers.
+<img src="https://github.com/CyrusDS/CustomDactylKeeb/blob/main/3D%20Design%20Iterations/V2inCura.png?raw=true"/>
+Shown as 3d model only.
 
-## Modifications
+Notice that there are slots in the hemisphere to accomodate for bearings to be placed. This is taken as a suggestion from another community member who suggested to include them for smoother trackpad scrolling. Not sure if this will stay on my model, but it does seem worth trying his suggestion.
 
 ### Wiring
 
