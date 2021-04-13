@@ -30,6 +30,7 @@ Shown as 3d model only.
 
 Notice that there are slots in the hemisphere to accomodate for bearings to be placed. This is taken as a suggestion from another community member who suggested to include them for smoother trackpad scrolling. Not sure if this will stay on my model, but it does seem worth trying his suggestion.
 
+Inherently, changing the top plate as shown above, raises a new issue. We need a new bottom plate to accomodate for the newly added large.. awkwardly sized... hemisphere. Doing this was a huge pain overall, but fortunately doing additive processes to STL files is a bit more forgiving than removing pieces of a model.
 ### Wiring
 
 ## Adding a PCB to the shell
